@@ -14,6 +14,7 @@ metadata:
     backstage.io/kubernetes-id: arti-test-quarkus 
     backstage.io/techdocs-ref: dir:. 
     janus-idp.io/tekton: arti-test-quarkus
+    jfrog-artifactory/image-name: bootstrap
   tags: ["java", "quarkus", "sscs", "sbom", "acs"] 
 spec:
   type: service
